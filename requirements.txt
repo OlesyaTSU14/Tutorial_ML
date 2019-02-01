@@ -1,6 +1,1 @@
-numpy>=1.16.0
-matplotlib>=2.0.2 
-seaborn==0.8.1
-xgboost==0.81
-scikit-learn==0.20.2
-scipy>=0.13.3
+nbrmd
