@@ -1,6 +1,6 @@
 # Tutorial_ML
 
-These Tutorials have been adapted to run via [Binder](https://mybinder.readthedocs.io/en/latest/) as a jupiter nobebooks.
+These Tutorials have been adapted to run via [Binder](https://mybinder.readthedocs.io/en/latest/) as a Jupiter notebooks.
 
 ## Execute the Tutorials_ML example via Binder:
 
@@ -14,7 +14,7 @@ Download the 63 MB dataset:
     
 Download dataset on the binder web page.
 
-Run the commands once in any of the nobebook jupiter:
+Run the commands once in any of the Jupiter notebook:
 
     %%bash
     pip install --upgrade pip
