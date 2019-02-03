@@ -1,1 +1,5 @@
 nbrmd
+matplotlib
+numpy
+pandas
+xgboost
